@@ -48,10 +48,9 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
-
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
-
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
+
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 
 
 <p align='center'>
