@@ -39,7 +39,6 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
 [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/christopherdongo)](https://github.com/christopherdongo) 
@@ -66,6 +65,4 @@
 
 -----
 
-Credits: [BRdhanani](https://github.com/brdhanani)
 
-Last Edited on: 29/03/2021
