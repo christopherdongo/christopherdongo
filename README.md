@@ -52,6 +52,9 @@
 
 [![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 
+[![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=netlify&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
+[![Tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat&logo=netlify&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
+
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
