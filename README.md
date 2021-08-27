@@ -50,9 +50,9 @@
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 
 [![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
-
 [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react.native&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 [![Tailwindcss](https://img.shields.io/badge/-tailwindcss-black?style=flat&logo=tailwindcss&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
+[![Linux](https://img.shields.io/badge/-linux-black?style=flat&logo=linux&link=https://github.com/christopherdongo)](https://github.com/christopherdongo)
 
 
 <p align='center'>
