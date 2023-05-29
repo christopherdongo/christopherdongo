@@ -5,7 +5,7 @@
 
 ### Hello! I'm Christopher Dongo a Frontend Developer from Perú.
 
-### Portfolio: https://portafoliomain.gtsb.io/
+### Portfolio: https://portafoliocd.netlify.app/
 
 <a href="https://www.linkedin.com/in/christopher-dongo-huarancca-2509a293">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
